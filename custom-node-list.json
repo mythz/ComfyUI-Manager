@@ -936,6 +936,17 @@
             "description": "This node allows downloading models directly within ComfyUI for easier use and integration."
         },
         {
+            "author": "ServiceStack",
+            "title": "ComfyUI Asset Downloader",
+            "id": "asset-downloader",
+            "reference": "https://github.com/ServiceStack/comfy-asset-downloader",
+            "files": [
+                "https://github.com/ServiceStack/comfy-asset-downloader"
+            ],
+            "install_type": "git-clone",
+            "description": "This node allows downloading all assets used within a ComfyUI Workflow to save time and make it easier to share workflows"
+        },
+        {
             "author": "Suzie1",
             "title": "Comfyroll Studio",
             "id": "comfyroll",
